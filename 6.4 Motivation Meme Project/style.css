@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#moment{
+    /* margin: auto; */
+    width: 50%;
+    margin-left: 25%;
+}
+H1{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+img{
+    width: 100%;
+    border: 5px solid white;
+    margin-top: 40px;
+}
